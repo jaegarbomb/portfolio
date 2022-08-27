@@ -1,8 +1,3 @@
-# Jayit Ghosh
-LinkedIn: https://www.linkedin.com/in/jayitghosh/ <br>
-Current: Data Analyst at CKUENS Analytics <br>
----
-
 ## Skills
 
 1. Python
