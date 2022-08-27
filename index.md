@@ -1,8 +1,3 @@
-## Contact Details:
-Email - <b>jayitgwork@gmail.com</b> <br>
-Number - +91 8780783024 <br>
-LinkedIn - https://www.linkedin.com/in/jayitghosh/ <br>
-
 ## Skills
 
 1. Python
