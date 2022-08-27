@@ -56,5 +56,5 @@ Dataset used -  personal Banking Transaction data <br>
 <br>
 
 ## Education
-Currently pursuing Masters in Machine Learning and Artificial Intelligence from Liverpool John Moores University (LJMU)
-B.E in Electronics and Communication from PES University (2016)
+- Currently pursuing Masters in Machine Learning and Artificial Intelligence from Liverpool John Moores University (LJMU) <br>
+- B.E in Electronics and Communication from PES University (2016)
