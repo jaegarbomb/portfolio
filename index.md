@@ -1,3 +1,10 @@
+## Contact Details:
+Email - jayitgwork@gmail.com <br>
+Number - +91 8780783024 <br>
+LinkedIn - https://www.linkedin.com/in/jayitghosh/ <br>
+Github - https://github.com/jaegarbomb <br>
+<br>
+
 ## Skills
 
 1. Python
@@ -54,3 +61,7 @@ Dataset used -  personal Banking Transaction data <br>
 - Using a hybrid approach a model was devised to analyze the sentiment for a particular comment. <br>
 - The hybrid approach resulted in  <b>85% accuracy</b>.<br>
 <br>
+
+## Education
+Currently pursuing Masters in Machine Learning and Artificial Intelligence from Liverpool John Moores University (LJMU)
+B.E in Electronics and Communication from PES University (2016)
