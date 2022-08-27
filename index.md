@@ -22,17 +22,17 @@ Current: Data Analyst at CKUENS Analytics <br>
 <h4>CKUENS Analytics (May 2021-Present) (Data Analyst) </h4>
 <li><b>HSBC (June 2021-Jan 2022)(Contractor) </b></li>
 * In-Charge and Point of Contact for UK Anti Money Laundering Transaction Monitoring Model.<br>
-* Involved in Segmentation and threshold tuning for the model's High Risk Geography  scenario. <br>
+* Involved in Segmentation and threshold tuning for the model's High Risk Geography  scenario.<br>
 <br>
 <li><b>Grant Thornton (Feb 2022 - Present) (Contractor) </b></li>
 * Performed Scenario Validation for Anti Money Laundering (BSA  AML) model for a US bank. <br>
-* Performed Model Validation (Transaction Monitoring) ) for a leading German Bank. <br>
+* Performed Model Validation (Transaction Monitoring) ) for a leading German Bank.<br>
 <br>
 <h4>Accenture Services Pvt. Ltd. (Aug 2016- Apr 2021) </h4>
 * Lead Developer for two implementation projects and Headed a team of 6 developers <br>
 * Implemented an automation process resulting in savings of $100K and 50% faster resolution time. <br>
 * Spearheaded an automation project to generate reports and deliver to stakeholders increasing efficiency by 50%. <br>
-
+---
 
 ## Projects
 <li><b> Model Validation for Anti Money Laundering (AML) Transaction Model: </b></li>
@@ -50,7 +50,7 @@ Using the Netflix dataset from Kaggle, I performed Exploratory Data Analysis(EDA
 <br>
 
 <li><b>Deep Dive Analysis of bank transactions</b></li>
-* Dataset used -  personal Banking Transaction data <br>
+Dataset used -  personal Banking Transaction data <br>
 - Data Cleaning: Transaction remarks contain the various details about the particular transaction. Using various string functions and regular expressions I was able to pull out several details for the transactions.<br>
 - Feature building : The details acquired from remarks were used to create new features such as transaction type, vendor. <br>
 <br>
@@ -59,7 +59,3 @@ Using the Netflix dataset from Kaggle, I performed Exploratory Data Analysis(EDA
 - Using a hybrid approach a model was devised to analyze the sentiment for a particular comment. <br>
 - The hybrid approach resulted in  <b>85% accuracy</b>.<br>
 <br>
-
-
-
-  
