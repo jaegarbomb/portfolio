@@ -1,123 +1,39 @@
 ---
 layout: default
 ---
+# Jayit Ghosh
+Current: Data Analyst at CKUENS Analytics
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Skills
 
-[Link to another page](./another-page.html).
+1. Python
+  - Pandas
+  - Numpy
+  - Matplotlib
+  - Seaborn
+  - Scikit-Learn
+  - Scipy
+2. SQL
+  - PostgreSQL
+  - MongoDB
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Work Experience
+<h4>CKUENS Analytics (May 2021-Present) (Data Analyst) </h4>
+<li><b>HSBC (June 2021-Jan 2022)(Contractor) </b></li>
+* In-Charge and Point of Contact for UK Anti Money Laundering Transaction Monitoring Model.<br>
+* Involved in Segmentation and threshold tuning for the model's High Risk Geography  scenario. <br>
+<br>
+<li><b>Grant Thornton (Feb 2022 - Present) (Contractor) </b></li>
+* Performed Scenario Validation for Anti Money Laundering (BSA  AML) model for a US bank. <br>
+* Performed Model Validation (Transaction Monitoring) ) for a leading German Bank. <br>
+<br>
+<h4>Accenture Services Pvt. Ltd. (Aug 2016- Apr 2021) </h4>
+* Lead Developer for two implementation projects and Headed a team of 6 developers <br>
+* Implemented an automation process resulting in savings of $100K and 50% faster resolution time. <br>
+* Spearheaded an automation project to generate reports and deliver to stakeholders increasing efficiency by 50%. <br>
 
 
-### Definition lists can be used with HTML syntax.
+## Projects
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
