@@ -1,9 +1,7 @@
 ## Contact Details:
-Email - jayitgwork@gmail.com <br>
+Email - <b>jayitgwork@gmail.com</b> <br>
 Number - +91 8780783024 <br>
 LinkedIn - https://www.linkedin.com/in/jayitghosh/ <br>
-Github - https://github.com/jaegarbomb <br>
-<br>
 
 ## Skills
 
